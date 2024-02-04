@@ -1,3 +1,9 @@
-body {
-  background-color: #2C2141;
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
 }
